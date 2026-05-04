@@ -1,4 +1,4 @@
-REMES- AI and Law research 2022-2026 is a public repository of Public Information gathered by article 6 solicitations before INAI and TRANSPARENCIA PARA EL PUEBLO, between 2022 and 2026.
+REMES- AI and Law research 2022-2026 is a public repository of Public Information gathered by article 6 of Mexico's Constitution solicitations before INAI and TRANSPARENCIA PARA EL PUEBLO, between 2022 and 2026.
 The information is ordered by:
 1. ZIP Files (From the 5 federal universities in Mexico and the 32 State Universities (Part I and Part II)
 2. Excel files of summary of patents, copyrights, and labor relations schemes.
@@ -11,14 +11,16 @@ The information is ordered by:
 9.	APPENDIX C DATA BASE 2022-2023 SOLICITATIONS.
 
 
-These records were presented in two Lectures by Dr. Antonio de J. Remes Diaz during his Ph.D. Studies in INADEJ, one before the SCJN House of Legal Culture Chetumal (October 2022) and another in IVEC-Veracruz Government (April 2023). 
-Dr. Antonio de J. Remes Diaz received his Ph.D. degree Cum Laude in May 2024. 
+These records were presented in two Lectures of Dr. Antonio de J. Remes Diaz during his Ph.D. Studies in INADEJ, one before the SCJN House of Legal Culture in Chetumal (Jurisprudence and Technology Development in Mexico's Legal System, October 2022) and another one in IVEC-Veracruz Government event (IP Law Conversatory, April 2023). 
 
+Dr. Antonio de J. Remes Diaz received his Ph.D. degree Cum Laude in May 2024. 
 
 This public repository can be also consulted by the following solicitations before the National Transparency Platform (Plataforma Nacional de Transparencia), in https://www.plataformadetransparencia.org.mx/ 
 
-
 Dr. Antonio de J. Remes Díaz.
+
 Director
+
 Remes Abogados
+
 www.remesabogados.com 
