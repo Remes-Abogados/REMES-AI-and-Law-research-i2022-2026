@@ -6,7 +6,7 @@ The information is ordered by:
 4. Public information from Mexico's Senate and Mexico's Congress (2024).
 5. Public information from Conachyt (2024), and proceedings RRA 10604/24 before INAI (September 2024).
 6. Public Information related to Legal Informatics, AI and Law and Legal Education (2026) in Public Universities in Mexico.
-7.	APPENDIX A (CASE LAW OVERCOME THE GENERATIONAL GAP/ SUPERAR LA BRECHA GENERACIONAL) SPANISH.
+7.	APPENDIX A (CASE LAW OVERCOME THE GENERATIONAL GAP/ SUPERAR LA BRECHA GENERACIONAL) SPANISH. [With the answers given of the LLM in Constitutional Law students].
 8.	APPENDIX B DATA BASE 2026 PNT SOLICITATIONS.
 9.	APPENDIX C DATA BASE 2022-2023 SOLICITATIONS.
 
