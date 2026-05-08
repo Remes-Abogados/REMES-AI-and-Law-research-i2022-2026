@@ -18,4 +18,4 @@ These records were presented in two Lectures of Dr. Antonio de J. Remes Diaz dur
 
 Dr. Antonio de J. Remes Diaz received his Ph.D. degree Cum Laude in May 2024 with a 4.0 of 4.0 GPA.
 
-This public repository can be also consulted by the following solicitations before the National Transparency Platform (Plataforma Nacional de Transparencia), in https://www.plataformadetransparencia.org.mx/ 
+The public repository linked in APPENDIX B and APPENDIX C database records (2022-2026) can also be consult in the National Transparency Platform (Plataforma Nacional de Transparencia), in https://www.plataformadetransparencia.org.mx/
