@@ -1,11 +1,11 @@
-BLUE AND GOLD AI and Law-Tech Transfer research 2022-2026 is a public reposi-tory of Public Information gathered by article 6 Mexico's Constitution proceedings before INAI and TRANSPARENCIA PARA EL PUEBLO authorities, between 2022 and 2026.
+BLUE AND GOLD AI and Law-Tech Transfer research 2022-2026 is a public repository of Public Information gathered by article 6 Mexico's Constitution proceedings before INAI and TRANSPARENCIA PARA EL PUEBLO authorities, between 2022 and 2026.
 The information is ordered by:
 
-1.	ZIP Files from Technology Development records (From the 5 federal univer-sities in Mexico and the 32 State Universities (Part I and Part II).
+1.	ZIP Files from Technology Development records (From the 5 federal universities in Mexico and the 32 State Universities (Part I and Part II),  [The Big 5]
 2.	Excel files of summary of patents, copyrights, and labor relations schemes.
 3.	A PDF file from a consolidated information of the 5 Big Federal Universities in Mexico (2022) [The Big 5].
 4.	Public information from Mexico's Senate and Mexico's Congress to regulate AI (2024).
-5.	Public information from Conachyt (2024), and proceedings RRA 10604/24 before INAI (September 2024).
+5.	Public information from Conachyt (2024), and case RRA 10604/24 before INAI (September 2024).
 6.	Public Information related to Legal Informatics, AI and Law and Legal Edu-cation (2026) in Public Universities of Mexico.
 7.	APPENDIX A (case law “overcoming the generational gap” (superar la brecha generacional), with the answers from the students.
 8.	APPENDIX B data base  of AI and Law Legal Informatics 2026 PNT peti-tions.
