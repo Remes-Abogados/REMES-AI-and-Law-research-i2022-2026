@@ -9,7 +9,8 @@ The information is ordered by:
 6.	Public Information related to Legal Informatics, AI and Law and Legal Edu-cation (2026) in Public Universities of Mexico.
 7.	APPENDIX A (case law “overcoming the generational gap” (superar la brecha generacional), with the answers from the students.
 8.	APPENDIX B data base  of AI and Law Legal Informatics 2026 PNT peti-tions.
-9.	APPENDIX C data base of Tech-Transfer 2022-2023 PNT petitions. 
+9.	APPENDIX C data base of Tech-Transfer 2022-2023 PNT petitions.
+10.	TFCA Court Statistics Report (March 1-31, 2024). 
 
 The information of this repository is in Spanish.
 
