@@ -12,7 +12,7 @@ The order of the information is as follows:
 6.	Public Information related to Legal Informatics, AI and Law and Legal Edu-cation (2026) in Public Universities of Mexico.
 7.	TFCA Court Statistics Report (March 1-31, 2024).
 8.	APPENDIX A (case law “overcoming the generational gap” (superar la brecha generacional), with the answers from the students.
-9.	APPENDIX B Database of AI and Law Legal Informatics 2026 PNT peti-tions.
+9.	APPENDIX B Database of AI and Law Legal Informatics 2026 PNT petitions (Part 1 to Part 7, and Excel File consolitaded).
 10.	APPENDIX C Database of Tech-Transfer 2022-2023 PNT petitions. 
 11.	APPENDIX D Database of Professors Positions and paid jobs in University of Veracruz PNT petitions (2024).
 12.	APPENDIX E Letter to Mexican Senate (AI Commission), Feb 6th, 2026.
