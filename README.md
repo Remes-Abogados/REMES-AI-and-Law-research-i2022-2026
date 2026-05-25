@@ -4,7 +4,7 @@ BLUE AND GOLD AI and Law-Tech Transfer research 2022-2026 is a public repository
 
 The order of the information is as follows:
 
-1.	ZIP Files from Technology Development records, from the five federal uni-versities in Mexico and the 32 State Universities (Part I and Part II).
+1.	ZIP Files from Technology Development records, from the five federal universities in Mexico and the 32 State Universities (Part I and Part II).
 2.	Excel files of summary of patents, copyrights, and labor relations schemes.
 3.	A PDF file from a consolidated information of the 5 Big Federal Universities in Mexico (2022) [The Big 5].
 4.	Public information from Mexico's Senate and Mexico's Congress to regulate AI (2024).
@@ -24,6 +24,6 @@ These records were presented in two Lectures of Dr. Antonio de J. Remes Diaz dur
 
 Dr. Antonio de J. Remes Diaz received his Ph.D. degree Cum Laude in May 2024 with a 4.0 of 4.0 GPA. (Academic Excellence performance).
 
-The public repository linked in APPENDIX B, APPENDIX C, and APPENDIX D, database records (2022-2026), and the Cases proceedings before INAI, TRANSPARNECIA PARA EL PUEBLO and IVAI can also be consulted in the Na-tional Transparency Platform (Plataforma Nacional de Transparencia), in https://www.plataformadetransparencia.org.mx/. 
+The public repository linked in APPENDIX B, APPENDIX C, and APPENDIX D, database records (2022-2026), and the Cases proceedings before INAI, TRANSPARNECIA PARA EL PUEBLO and IVAI can also be consulted in the National Transparency Platform (Plataforma Nacional de Transparencia), in https://www.plataformadetransparencia.org.mx/. 
 
 This information is public.
