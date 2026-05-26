@@ -15,7 +15,13 @@ The order of the information is as follows:
 11.	APPENDIX D Database of Professors Positions and paid jobs in University of Veracruz PNT petitions (2024).
 12.	APPENDIX E Letter to Mexican Senate (AI Committee), Feb 6th, 2026.
 13.	Mexican AI Act draft (April 20th, 2026).
+
 The information of this repository is in Spanish.
+
 These records were presented in two Lectures of Dr. Antonio de J. Remes Diaz during his Ph.D. Studies in INADEJ, one before the SCJN House of Legal Culture in Chetumal, titled Jurisprudence and Technology Development in Mexico's Legal System, (October 2022) and another one in a Conference organized by IVEC-Veracruz and the Government of Veracruz, titled IP and Copyright Law Conference (April 2023).
+
 Dr. Antonio de J. Remes Diaz received his Ph.D. degree Cum Laude in May 2024 with a 4.0 of 4.0 GPA. (Academic Excellence performance).
-The public repository linked in APPENDIX B, APPENDIX C, and APPENDIX D, database records (2022-2026), and the Cases proceedings before INAI, Transparency for the People and IVAI can also be consulted in the National Transparency Platform in https://www.plataformadetransparencia.org.mx/. This information is public.
+
+The public repository linked in APPENDIX B, APPENDIX C, and APPENDIX D, database records (2022-2026), and the Cases proceedings before INAI, Transparency for the People and IVAI can also be consulted in the National Transparency Platform in https://www.plataformadetransparencia.org.mx/. 
+
+This information is public.
