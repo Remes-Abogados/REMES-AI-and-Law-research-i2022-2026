@@ -1,6 +1,9 @@
 GITHUB REPOSITORY. BLUE AND GOLD AI AND LAW-TECH TRANSFER RESEARCH 2022-2026.
+
 Website address: https://github.com/Remes-Abogados/BLUE-AND-GOLD-AI-and-Law-Tech-Transfer-research-2022-2026.
+
 BLUE AND GOLD AI and Law-Tech Transfer research 2022-2026 is a public repository of Public Information gathered by article 6 Mexico's Constitution proceedings before INAI and Transparency for the People authorities, between 2022 and 2026.
+
 The order of the information is as follows:
 1.	ZIP Files from Technology Development records, from the five federal uni-versities in Mexico and the 32 State Universities (Part I and Part II).
 2.	Excel files of summary of patents, copyrights, and labor relations schemes.
